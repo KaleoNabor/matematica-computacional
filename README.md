@@ -30,3 +30,7 @@ Para visualizar e executar os notebooks localmente, siga os passos:
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/KaleoNabor/matematica-computacional.git
+
+2. **Suba o arquivo para o google Collab**
+   ```bash
+   https://colab.google/
