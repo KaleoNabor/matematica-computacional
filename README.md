@@ -15,6 +15,7 @@ O objetivo principal é aplicar conceitos teóricos de álgebra linear, cálculo
 Os projetos estão organizados em pastas nomeadas de acordo com a atividade correspondente:
 
 - **atividade0:** Demonstração de transformações lineares (Rotação e Cisalhamento) utilizando Jupyter, Git e Matplotlib.
+- **atividade1:** Continuação Atividade 0 (Composição de Transformações, Análise do Determinante, Não-comutatividade das Transformações, Ortogonalidade e Produto Escalar).
 
 ## 🛠️ Ferramentas e Tecnologias
 As principais ferramentas e bibliotecas utilizadas neste projeto são:
