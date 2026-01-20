@@ -17,6 +17,8 @@ Os projetos estão organizados em pastas nomeadas de acordo com a atividade corr
 - **atividade0:** Demonstração de transformações lineares (Rotação e Cisalhamento) utilizando Jupyter, Git e Matplotlib.
 - **atividade1:** Continuação Atividade 0 (Composição de Transformações, Análise do Determinante, Não-comutatividade das Transformações, Ortogonalidade e Produto Escalar).
 - **atividade2:** Implementação do algoritmo de Gradiente Descendente aplicado a Regressão Linear e Redes Neurais. O projeto abrange desde o ajuste de reta (intercepto e inclinação) até o treinamento de uma Rede Neural simples via Backpropagation, com visualizações dinâmicas da curva de erro (Loss) e otimização de pesos baseados no material do StatQuest.
+- **atividade2.1:** Implementação rigorosa e análise comparativa de métodos numéricos para zeros de funções reais (Bissecção, Posição Falsa, MPF, Newton-Raphson e Secante). O projeto inclui um estudo especial de polinômios, onde os algoritmos foram adaptados para utilizar o Esquema de Horner (otimização de $O(n^2)$ para $O(n)$ ), além de métricas detalhadas de esforço computacional, tempo de execução e gráficos de convergência.
+
 
 ## 🛠️ Ferramentas e Tecnologias
 As principais ferramentas e bibliotecas utilizadas neste projeto são:
